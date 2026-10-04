@@ -303,23 +303,41 @@ PostgreSQL
 Project Structure:
 
 src
+
 ├── main
+
 │   ├── java
+
 │   │   └── com.fxexposure
+
 │   │       ├── config
+
 │   │       ├── controller
+
 │   │       ├── dto
+
 │   │       ├── entity
+
 │   │       ├── exception
+
 │   │       ├── repository
+
 │   │       ├── security
+
 │   │       └── service
+
 │   │
+
 │   └── resources
+
 │       └── application.properties
+
 │
+
 └── test
+
     └── java
+    
         └── com.fxexposure
 
 ## Prerequisites
